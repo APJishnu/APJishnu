@@ -13,15 +13,20 @@
 
 ## 🚀 About Me
 
-I'm a versatile **Full-Stack Developer** with a focus on secure, scalable, and high-performance applications. My expertise in the **MERN stack**, **PostgreSQL**, and **GraphQL** enables me to design and implement responsive web applications that enhance user experience and improve backend efficiency. I am dedicated to continuous learning and collaborative development.
+I'm a versatile **Full-Stack Developer** focused on building secure, scalable, and high-performance applications. With expertise in the **MERN stack**, **PostgreSQL**, and **GraphQL**, I design responsive web applications that improve user engagement and streamline backend processes. I am dedicated to continuous learning and collaborative development.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 - **Languages**: ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+
 - **Frameworks & Libraries**: ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+
 - **Databases**: ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
+- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
 - **Development Areas**: API integration, Database management, Security best practices
 
 ---
