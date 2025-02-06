@@ -33,11 +33,14 @@ I'm a versatile **Full-Stack Developer** focused on building secure, scalable, a
 
 ## 💼 Work & Projects
 
-### [CineMagic 🎬](https://github.com/APJishnu/CineMagic)
+### [CineMagic 🎬](https://techfriar-week5-movie-ticket-booking-app.vercel.app/)
 A movie booking web app with **user authentication** and **real-time seat reservation** built using the MERN stack. Includes animations and an intuitive UI for an improved user experience.
 
 ### [Car Rental System 🚗](https://github.com/APJishnu/Car_rental_application)
 A **GraphQL** and **PostgreSQL**-powered app that allows users to book and manage car rentals efficiently. Secure booking with optimized data handling and animations for smooth interaction.
+
+### [StundentLink 🚗](https://studentlink-cs.vercel.app/)
+A **Next JS** ,**Node JS** and **MongoDB**-powered app that allows users to get notes. developed for Computer Department at IPT AND GPTC SHORANUR.
 
 ---
 
